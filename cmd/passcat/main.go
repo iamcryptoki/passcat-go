@@ -6,7 +6,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/iamcryptoki/passcat/passcat"
+	"github.com/iamcryptoki/passcat-go/passcat"
 )
 
 var (
