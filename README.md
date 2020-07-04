@@ -4,8 +4,8 @@ Passcat lets you generate cryptographically secure, memorable passphrases using 
 
 Contents
 * [Installation](#installation)
-* [Library](#library)
-* [CLI](#cli)
+* [Usage (library)](#usage-library)
+* [Usage (CLI)](#usage-cli)
 * [Available wordlists](#available-wordlists)
 
 Installation
@@ -15,10 +15,8 @@ Installation
 $ go get -u github.com/iamcryptoki/passcat-go/passcat
 ```
 
-Library
--------
-
-### Usage
+Usage (library)
+---------------
 
 ```golang
 package main
@@ -52,14 +50,12 @@ func main() {
 }
 ```
 
-CLI
----
+Usage (CLI)
+-----------
 
 ```sh
 $ go install github.com/iamcryptoki/passcat-go/cmd/passcat
 ```
-
-### Usage
 
 Basic usage:
 
@@ -98,7 +94,7 @@ Available wordlists
 
 Language | Code
 -------- | ----
-EFF (English) | eff
+EFF (English) | `eff`
 Dutch | `nl`
 French | `fr`
 German | `de`
