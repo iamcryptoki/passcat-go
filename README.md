@@ -3,18 +3,20 @@
 Passcat lets you generate cryptographically secure, memorable passphrases using the diceware algorithm.
 
 Contents
+* [Installation](#installation)
 * [Library](#library)
 * [CLI](#cli)
 * [Available wordlists](#available-wordlists)
 
-Library
--------
-
-### Installation
+Installation
+------------
 
 ```sh
 $ go get -u github.com/iamcryptoki/passcat-go/passcat
 ```
+
+Library
+-------
 
 ### Usage
 
@@ -52,8 +54,6 @@ func main() {
 
 CLI
 ---
-
-### Installation
 
 ```sh
 $ go install github.com/iamcryptoki/passcat-go/cmd/passcat
