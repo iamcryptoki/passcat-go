@@ -4,7 +4,7 @@ import (
 	"fmt"
 )
 
-type Worder interface {
+type worder interface {
 	WordAt(int) string
 }
 
@@ -16,7 +16,7 @@ func (w *wordList) WordAt(i int) string {
 	return w.words[i]
 }
 
-func getWordList(lang string) (Worder, error) {
+func getWordList(lang string) (worder, error) {
 	switch lang {
 	case "de":
 		return wordListGerman, nil

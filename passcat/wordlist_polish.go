@@ -1,6 +1,6 @@
 package passcat
 
-// Polish wordlist.
+// WordListPolish is the mapping of rolls to Polish words.
 //
 // See https://theworld.com/~reinhold/diceware.html
 // for more details.

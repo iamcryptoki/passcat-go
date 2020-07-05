@@ -1,6 +1,6 @@
 package passcat
 
-// Russian wordlist.
+// WordListRussian is the mapping of rolls to Russian words.
 //
 // See https://theworld.com/~reinhold/diceware.html
 // for more details.

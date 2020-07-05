@@ -1,6 +1,7 @@
 package passcat
 
-// EFF wordlist.
+// WordListEFF is the mapping of rolls to words
+// based on EFF's diceware wordlist.
 //
 // See https://www.eff.org/dice
 // for more details.

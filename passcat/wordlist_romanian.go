@@ -1,6 +1,6 @@
 package passcat
 
-// Romanian wordlist.
+// WordListRomanian is the mapping of rolls to Romanian words.
 //
 // See https://theworld.com/~reinhold/diceware.html
 // for more details.

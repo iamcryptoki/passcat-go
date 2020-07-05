@@ -1,6 +1,6 @@
 package passcat
 
-// French wordlist.
+// WordListFrench is the mapping of rolls to French words.
 //
 // See https://theworld.com/~reinhold/diceware.html
 // for more details.

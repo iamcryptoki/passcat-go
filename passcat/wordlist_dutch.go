@@ -1,6 +1,6 @@
 package passcat
 
-// Dutch wordlist.
+// WordListDutch is the mapping of rolls to Dutch words.
 //
 // See https://theworld.com/~reinhold/diceware.html
 // for more details.

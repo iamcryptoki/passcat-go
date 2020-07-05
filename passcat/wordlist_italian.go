@@ -1,6 +1,6 @@
 package passcat
 
-// Italian wordlist.
+// WordListItalian is the mapping of rolls to Italian words.
 //
 // See https://theworld.com/~reinhold/diceware.html
 // for more details.

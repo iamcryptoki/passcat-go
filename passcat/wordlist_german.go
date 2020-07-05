@@ -1,6 +1,6 @@
 package passcat
 
-// German wordlist.
+// WordListGerman is the mapping of rolls to German words.
 //
 // See https://theworld.com/~reinhold/diceware.html
 // for more details.

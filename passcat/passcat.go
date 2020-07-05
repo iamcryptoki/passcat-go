@@ -50,7 +50,7 @@ func generatePassphrase(lang string, nWords int) ([]string, error) {
 	return phrase, nil
 }
 
-// 'rollWord' rolls and agregate 5 dice
+// 'rollWord' rolls and agregates 5 dice
 // to represent a word in the selected wordlist.
 func rollWord() (int, error) {
 	var res int

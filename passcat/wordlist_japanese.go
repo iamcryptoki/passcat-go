@@ -1,6 +1,6 @@
 package passcat
 
-// Japanese wordlist.
+// WordListJapanese is the mapping of rolls to Japanese words.
 //
 // See https://theworld.com/~reinhold/diceware.html
 // for more details.

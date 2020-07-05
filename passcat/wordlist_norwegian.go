@@ -1,6 +1,6 @@
 package passcat
 
-// Norwegian wordlist.
+// WordListNorwegian is the mapping of rolls to Norwegian words.
 //
 // See https://theworld.com/~reinhold/diceware.html
 // for more details.
